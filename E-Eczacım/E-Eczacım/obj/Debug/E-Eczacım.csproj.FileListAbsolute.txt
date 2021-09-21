@@ -1,0 +1,222 @@
+c:\users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\E-Eczacım.exe.config
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\E-Eczacım.exe
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\E-Eczacım.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.xml
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.csprojResolveAssemblyReference.cache
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.Properties.Resources.resources
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.csproj.GenerateResource.Cache
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.exe
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.giris_form.resources
+C:\Users\furka\Documents\Visual Studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.kayitOl_form.resources
+C:\Users\furka\Documents\Visual Studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.sifremiUnuttum_form.resources
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\GMap.NET.Core.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\chrome_100_percent.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\chrome_200_percent.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\chrome_elf.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\d3dcompiler_47.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\icudtl.dat
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\libcef.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\libEGL.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\libGLESv2.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\LICENSE.txt
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\am.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ar.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\bg.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\bn.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ca.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\cs.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\da.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\de.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\el.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\en-GB.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\en-US.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\es-419.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\es.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\et.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\fa.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\fi.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\fil.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\fr.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\gu.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\he.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\hi.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\hr.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\hu.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\id.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\it.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ja.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\kn.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ko.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\lt.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\lv.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ml.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\mr.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ms.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\nb.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\nl.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\pl.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\pt-BR.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\pt-PT.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ro.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ru.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\sk.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\sl.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\sr.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\sv.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\sw.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\ta.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\te.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\th.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\tr.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\uk.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\vi.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\zh-CN.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\locales\zh-TW.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\README.txt
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\resources.pak
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\snapshot_blob.bin
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\swiftshader\libEGL.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\v8_context_snapshot.bin
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.WinForms.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.xml
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.xml
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.WinForms.xml
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.konum_form.resources
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\HtmlAgilityPack.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\HtmlAgilityPack.xml
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.odeme_form.resources
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\MetroFramework.Design.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\MetroFramework.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.eczaneGiris_form.resources
+C:\Users\furka\documents\visual studio 2013\Projects\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.kullaniciGiris_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\E-Eczacım.exe.config
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.exe
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\chrome_100_percent.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\chrome_200_percent.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\chrome_elf.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\d3dcompiler_47.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\icudtl.dat
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\libcef.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\libEGL.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\libGLESv2.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\LICENSE.txt
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\README.txt
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\resources.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\snapshot_blob.bin
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\v8_context_snapshot.bin
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\am.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ar.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\bg.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\bn.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ca.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\cs.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\da.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\de.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\el.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\en-GB.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\en-US.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\es-419.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\es.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\et.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\fa.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\fi.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\fil.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\fr.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\gu.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\he.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\hi.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\hr.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\hu.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\id.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\it.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ja.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\kn.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ko.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\lt.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\lv.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ml.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\mr.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ms.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\nb.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\nl.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\pl.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\pt-BR.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\pt-PT.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ro.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ru.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\sk.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\sl.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\sr.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\sv.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\sw.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\ta.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\te.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\th.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\tr.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\uk.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\vi.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\zh-CN.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\locales\zh-TW.pak
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\swiftshader\libEGL.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\E-Eczacım.exe
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\E-Eczacım.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.WinForms.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\GMap.NET.Core.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\HtmlAgilityPack.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\MetroFramework.Design.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\MetroFramework.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.xml
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.Core.xml
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\CefSharp.WinForms.xml
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\bin\Debug\HtmlAgilityPack.xml
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.kullaniciGiris_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.giris_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.kayitOl_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.konum_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.eczaneGiris_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.Properties.Resources.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.odeme_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E_Eczacım.sifremiUnuttum_form.resources
+C:\Users\furka\Desktop\E-Eczacım\E-Eczacım\obj\Debug\E-Eczacım.csproj.GenerateResource.Cache
